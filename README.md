@@ -18,7 +18,7 @@ steps](https://devcenter.heroku.com/articles/getting-started-with-python#introdu
 `cd ~/dailySEP` -> `heroku ps:scale worker=1`       
 That should set it up to work remotely. You can check the logs: `heroku logs --ps worker` and also stop it: `heroku ps:stop worker.1`.
       
-All in all, *just read the damn docs*! (some listed below)  
+All in all, *just read the docs!* (some listed below)  
 
                  
 ![Yes, documentation](http://a.memegen.com/jy0j99.gif)             
