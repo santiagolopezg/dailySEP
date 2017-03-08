@@ -1,4 +1,4 @@
-# Daily Stanford Encyclopedia of Philosophy (@dailySEP)
+## Daily Stanford Encyclopedia of Philosophy (@dailySEP)
 I made a little tweet bot that posts daily entries from the Stanford Encyclopaedia of Philosophy. 
 
 It's just a quick project, based on a few blog posts I read ([Brian Caffey's post](http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html) helped a lot). 
@@ -18,7 +18,7 @@ steps](https://devcenter.heroku.com/articles/getting-started-with-python#introdu
 `cd ~/dailySEP` -> `heroku ps:scale worker=1`       
 That should set it up to work remotely. You can check the logs: `heroku logs --ps worker` and also stop it: `heroku ps:stop worker.1`.
       
-All in all, just read the damn docs]! (some listed below)  
+All in all, *just read the damn docs*! (some listed below)  
 
                  
 ![Yes, documentation](http://a.memegen.com/jy0j99.gif)             
