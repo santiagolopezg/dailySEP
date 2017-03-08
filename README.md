@@ -18,10 +18,10 @@ steps](https://devcenter.heroku.com/articles/getting-started-with-python#introdu
 `cd ~/dailySEP` -> `heroku ps:scale worker=1`       
 That should set it up to work remotely. You can check the logs: `heroku logs --ps worker` and also stop it: `heroku ps:stop worker.1`.
       
-All in all, [just read the damn docs](https://cdn.meme.am/cache/instances/folder883/500x/66686883.jpg)! (some listed below)         
-          
-          
-![Yes, documentation](https://techbeacon.com/sites/default/files/docs_4.png)             
+All in all, just read the damn docs]! (some listed below)  
+
+                 
+![Yes, documentation](http://a.memegen.com/jy0j99.gif)             
              
 ### Useful links:
 - [Brian Caffey's post](http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html)
