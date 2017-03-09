@@ -23,9 +23,10 @@ All in all, *just read the docs!* (some listed below)
                  
 ![Yes, documentation](http://a.memegen.com/jy0j99.gif)             
              
-### Useful links:
+### Useful docs:
 - [Brian Caffey's post](http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html)
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 - [Heroku: scaling dyno formation](https://devcenter.heroku.com/articles/scaling)
 - [Heroku: Process types and the Procfile](https://devcenter.heroku.com/articles/procfile)
 - [Heroku: dynos / configs](https://devcenter.heroku.com/articles/dynos#the-dyno-manager)
+- [Tweepy documentation (very cool)](https://media.readthedocs.org/pdf/tweepy/latest/tweepy.pdf)
