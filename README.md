@@ -1,5 +1,5 @@
 ## Daily Stanford Encyclopedia of Philosophy (@dailySEP)
-I made a little tweet bot that posts daily entries from the Stanford Encyclopaedia of Philosophy. 
+I made a little tweet bot that posts daily entries from the Stanford Encyclopedia of Philosophy. 
 
 It's just a quick project, based on a few blog posts I read ([Brian Caffey's post](http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html) helped a lot). 
 I really enjoy Wikipedia's twitter account, which posts random (*very random*) entries daily. I also love reading the [Stanford Encyclopaedia of Philosophy](https://plato.stanford.edu/), 
